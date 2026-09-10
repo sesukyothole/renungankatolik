@@ -1,0 +1,1132 @@
+
+{
+  "aplikasi": "Aneka Ibadat Peringatan Arwah",
+  "versi": "1.0",
+  "deskripsi": "Kumpulan materi ibadat peringatan arwah untuk malam tirakatan, 3 hari, 7 hari, 40 hari, 100 hari, 1 tahun, 2 tahun, 3 tahun, dan 1000 hari. Setiap ibadat dilengkapi ritus pembuka, lagu Madah Bakti, doa ujub, bacaan sabda, renungan, doa Rosario Arwah, dan ritus penutup.",
+  "catatan_penggunaan": "Setiap momen peringatan memiliki materi tersendiri. Pengguna dapat memilih momen peringatan yang sesuai. Nama almarhum/almarhumah dapat diisi secara dinamis dalam aplikasi.",
+  "ibadat_peringatan": [
+    {
+      "id": "malam_tirakatan",
+      "nama": "Ibadat Malam Tirakatan",
+      "hari": "Malam pertama setelah wafat",
+      "warna_liturgi": "Ungu/Hitam",
+      "ritus_pembuka": {
+        "lagu_pembuka": {
+          "judul": "Tuhan Allah Maha Agung",
+          "sumber": "Madah Bakti No. 604",
+          "lirik": "Tuhan Allah, maha agung, kami menghadap pada-Mu, hati penuh rasa syukur, bersujud haturkan puji.",
+          "keterangan": "Lagu pembukaan untuk melantumkan pujian dan permohonan keselamatan arwah"
+        },
+        "tanda_kemenangan": {
+          "pemimpin": "Dalam nama Bapa dan Putra dan Roh Kudus.",
+          "umat": "Amin."
+        },
+        "salam": {
+          "pemimpin": "Semoga rahmat Tuhan kita Yesus Kristus, cinta kasih Allah, dan persekutuan Roh Kudus bersamamu.",
+          "umat": "Dan bersama rohmu."
+        },
+        "doa_pembuka": {
+          "pemimpin": "Marilah kita berdoa. (hening sejenak)",
+          "doa": "Allah Bapa yang Mahakuasa, Engkau adalah sumber kehidupan dan tujuan akhir dari segala sesuatu. Pada malam tirakatan ini, kami berkumpul untuk mendoakan saudara/i kami [Nama Almarhum/Almarhumah] yang telah Engkau panggil ke hadirat-Mu. Terimalah doa kami, ampunilah segala dosa dan kesalahannya, dan semoga ia Engkau terima dalam kebahagiaan kekal bersama para kudus di surga. Demi Kristus, Tuhan kami.",
+          "umat": "Amin."
+        }
+      },
+      "bacaan_sabda": {
+        "bacaan_pertama": {
+          "teks": "Aku tahu bahwa Penebusku hidup, dan bahwa Ia akhirnya akan berdiri di atas bumi. Meskipun kulitku sudah binasa, namun dalam dagingku aku akan melihat Allah. (Ayb 19:25-26)",
+          "keterangan": "Bacaan Pertama dari Kitab Ayub"
+        },
+        "bacaan_injil": {
+          "teks": "Akulah kebangkitan dan hidup; barangsiapa percaya kepada-Ku, ia akan hidup walaupun ia sudah mati, dan setiap orang yang hidup dan yang percaya kepada-Ku, tidak akan mati selama-lamanya. (Yoh 11:25-26)",
+          "keterangan": "Bacaan Injil Suci menurut Yohanes"
+        }
+      },
+      "renungan": {
+        "judul": "Pengharapan akan Kebangkitan",
+        "durasi": "5-10 menit",
+        "materi": "Saudara-saudari yang terkasih dalam Kristus,\n\nMalam ini kita berkumpul dalam suasana duka, namun juga dalam pengharapan iman. Kematian bukanlah akhir dari segalanya, melainkan pintu menuju kehidupan yang kekal. Kitab Ayub mengingatkan kita bahwa meskipun tubuh jasmani kita binasa, namun kita akan melihat Allah dalam daging kita sendiri. Ini adalah janji pengharapan yang luar biasa.\n\nYesus Kristus sendiri telah bersabda, 'Akulah kebangkitan dan hidup.' Dalam Dia, kematian tidak lagi menjadi akhir yang menakutkan, melainkan awal dari kehidupan baru bersama Bapa di surga. Kita percaya bahwa saudara/i kita [Nama Almarhum/Almarhumah] yang telah mendahului kita kini berada dalam pangkuan kasih Allah.\n\nMalam tirakatan ini mengajarkan kita untuk tidak larut dalam kesedihan yang tanpa harapan. Sebaliknya, kita diajak untuk mengangkat hati kepada Tuhan, memohon rahmat-Nya bagi arwah yang kita kasihi, sekaligus mempersiapkan diri kita sendiri untuk suatu hari nanti berjumpa dengan-Nya. Marilah kita jadikan malam ini sebagai momen untuk merenungkan makna hidup yang sesungguhnya, yaitu hidup yang berpusat pada kasih kepada Allah dan sesama.\n\nSemoga arwah saudara/i kita [Nama Almarhum/Almarhumah] beristirahat dalam damai Kristus, dan semoga kita semua dikuatkan dalam iman akan kebangkitan."
+      },
+      "doa_ujub": {
+        "keterangan": "Doa Ujub pertama dibawakan Prodiakon, dilanjutkan Lektor",
+        "ujub": [
+          {"pembawa": "Prodiakon", "teks": "Untuk arwah saudara/i kami [Nama Almarhum/Almarhumah] yang baru saja Engkau panggil, ya Tuhan, kami mohonkan pengampunan atas segala dosa dan kesalahannya. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk keluarga yang ditinggalkan, agar mereka dikuatkan dalam iman dan pengharapan akan kebangkitan. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk semua arwah umat beriman yang telah mendahului kami, agar mereka menikmati kedamaian abadi di surga. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk para imam dan pelayan Gereja yang telah wafat, agar mereka menerima upah atas pengabdiannya. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk anggota keluarga kami yang telah mendahului kami, agar mereka bersatu dengan Allah dalam kemuliaan. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk sahabat dan kerabat yang telah wafat, agar mereka beristirahat dalam damai Kristus. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk semua orang yang tidak memiliki siapa pun yang mendoakan mereka, agar Allah tidak melupakan mereka. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk kita semua yang masih hidup, agar kita senantiasa siap sedia menyambut panggilan Tuhan. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk perdamaian dunia dan persaudaraan semua bangsa, agar tidak ada lagi perang dan pertumpahan darah. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk semua arwah keluarga kami yang telah lama mendahului kami, agar mereka menikmati kebahagiaan surgawi. Tuhan, dengarkanlah doa kami."}
+        ],
+        "jawaban_umat": "Tuhan, dengarkanlah doa kami."
+      },
+      "doa_rosario_arwah": {
+        "keterangan": "Doa Rosario Arwah khusus untuk almarhum/almarhumah, tidak menggunakan acuan rosario harian",
+        "pembukaan": {
+          "pemimpin": "Dalam nama Bapa dan Putra dan Roh Kudus. Amin.",
+          "doa": "Ya Bunda Maria, kami berkumpul di hadapanmu untuk mendoakan arwah saudara/i kami [Nama Almarhum/Almarhumah]. Engkau yang telah menerima Putramu yang bangkit, dampingilah kami dalam doa ini. Amin."
+        },
+        "peristiwa_arwah": [
+          {
+            "peristiwa": 1,
+            "judul": "Peristiwa Kelahiran Baru dalam Kristus",
+            "renungan": "Saudara/i kami [Nama Almarhum/Almarhumah] telah dilahirkan kembali dalam Kristus melalui pembaptisan. Marilah kita mohon agar ia kini menikmati hidup baru dalam kemuliaan Allah.",
+            "ujub": "Ya Bapa, terimalah arwah [Nama Almarhum/Almarhumah] dalam pangkuan kasih-Mu.",
+            "doa_inti": {
+              "bapa_kami": 1,
+              "salam_maria": 10,
+              "kemuliaan": 1,
+              "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."
+            }
+          },
+          {
+            "peristiwa": 2,
+            "judul": "Peristiwa Perjalanan Hidup di Dunia",
+            "renungan": "Saudara/i kami [Nama Almarhum/Almarhumah] telah menyelesaikan perjalanan hidupnya di dunia ini. Semoga segala kebaikan dan jasanya menjadi berkat bagi kita semua.",
+            "ujub": "Ya Bapa, ingatlah segala kebaikan [Nama Almarhum/Almarhumah] dan ampunilah kekurangannya.",
+            "doa_inti": {
+              "bapa_kami": 1,
+              "salam_maria": 10,
+              "kemuliaan": 1,
+              "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."
+            }
+          },
+          {
+            "peristiwa": 3,
+            "judul": "Peristiwa Pengampunan dan Kerahiman Allah",
+            "renungan": "Kita percaya akan kerahiman Allah yang tak terbatas. Marilah kita mohon agar [Nama Almarhum/Almarhumah] menerima pengampunan penuh atas segala dosanya.",
+            "ujub": "Ya Bapa, curahkanlah kerahiman-Mu kepada [Nama Almarhum/Almarhumah].",
+            "doa_inti": {
+              "bapa_kami": 1,
+              "salam_maria": 10,
+              "kemuliaan": 1,
+              "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."
+            }
+          },
+          {
+            "peristiwa": 4,
+            "judul": "Peristiwa Pengharapan akan Kebangkitan",
+            "renungan": "Dalam Kristus, kita memiliki pengharapan akan kebangkitan. Marilah kita mohon agar [Nama Almarhum/Almarhumah] bangkit bersama Kristus pada akhir zaman.",
+            "ujub": "Ya Bapa, bangkitkanlah [Nama Almarhum/Almarhumah] bersama Kristus Putra-Mu.",
+            "doa_inti": {
+              "bapa_kami": 1,
+              "salam_maria": 10,
+              "kemuliaan": 1,
+              "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."
+            }
+          },
+          {
+            "peristiwa": 5,
+            "judul": "Peristiwa Persatuan dengan Para Kudus di Surga",
+            "renungan": "Marilah kita mohon agar [Nama Almarhum/Almarhumah] bersatu dengan Bunda Maria, para malaikat, dan semua orang kudus dalam kemuliaan surga.",
+            "ujub": "Ya Bapa, satukanlah [Nama Almarhum/Almarhumah] dengan para kudus di surga.",
+            "doa_inti": {
+              "bapa_kami": 1,
+              "salam_maria": 10,
+              "kemuliaan": 1,
+              "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."
+            }
+          }
+        ],
+        "penutup_rosario": {
+          "doa_salam_ya_ratu": "Salam, ya Ratu, Bunda yang berbelaskasih, hidup, hiburan dan harapan kami. Kepada-Mu kami berseru, kami anak-anak Hawa yang terbuang. Kepada-Mu kami mengeluh, merintih dan menangis di lembah air mata ini. Maka, ya Pembela kami, arahkanlah pandangan-Mu yang penuh belas kasih kepada kami. Dan setelah pengembaraan ini, tunjukkanlah kepada kami Yesus, buah rahim-Mu yang terberkati. O Ratu yang murah hati, Bunda yang berbelaskasih, Perawan yang manis, ya Maria. Doakanlah kami, ya Bunda Allah yang kudus, agar kami layak menerima janji-janji Kristus."
+        }
+      },
+      "ritus_penutup": {
+        "pemimpin": "Prodiakon",
+        "doa_penutup": {
+          "pemimpin": "Marilah kita berdoa. Allah Bapa yang Maharahim, kami bersyukur atas kasih-Mu yang tidak terbatas. Terimalah doa-doa yang kami haturkan pada malam tirakatan ini. Semoga arwah saudara/i kami [Nama Almarhum/Almarhumah] beristirahat dalam damai dan menikmati terang wajah-Mu. Bantulah kami yang masih berziarah di dunia ini untuk senantiasa setia kepada-Mu. Demi Kristus, Tuhan kami.",
+          "umat": "Amin."
+        },
+        "berkat": {
+          "pemimpin": "Semoga Allah yang Mahakuasa memberkati kita semua, Bapa, Putra, dan Roh Kudus.",
+          "umat": "Amin."
+        },
+        "lagu_penutup": {
+          "judul": "Tuhan Sumber Gembiraku",
+          "sumber": "Madah Bakti No. 477",
+          "lirik": "Segala rumput pun riang ria, menuntunmu ke surga. Desiran angin nan mesra, mengayunmu ke surga.",
+          "keterangan": "Lagu penutup untuk melantumkan pujian bagi keselamatan arwah"
+        }
+      }
+    },
+    {
+      "id": "peringatan_3_hari",
+      "nama": "Ibadat Peringatan 3 Hari",
+      "hari": "Hari ketiga setelah wafat",
+      "warna_liturgi": "Ungu",
+      "ritus_pembuka": {
+        "lagu_pembuka": {
+          "judul": "Pujilah Tuhan Allah Maha Tinggi",
+          "sumber": "Madah Bakti No. 206",
+          "lirik": "Pujilah Tuhan Allah Maha Tinggi, seluruh alam raya karya tangan-Nya. Syukur dan pujian bagi nama-Nya, karena cinta-Nya kekal selamanya.",
+          "keterangan": "Lagu pembukaan untuk melantumkan pujian dan permohonan keselamatan arwah"
+        },
+        "tanda_kemenangan": {
+          "pemimpin": "Dalam nama Bapa dan Putra dan Roh Kudus.",
+          "umat": "Amin."
+        },
+        "salam": {
+          "pemimpin": "Kasih karunia dan damai sejahtera dari Allah, Bapa kita, dan dari Yesus Kristus, Putra-Nya, menyertai kamu sekalian.",
+          "umat": "Dan bersama rohmu."
+        },
+        "doa_pembuka": {
+          "pemimpin": "Marilah kita berdoa. (hening sejenak)",
+          "doa": "Allah Bapa yang penuh belas kasih, pada hari ketiga ini kami berkumpul untuk mengenang dan mendoakan saudara/i kami [Nama Almarhum/Almarhumah]. Engkau telah membangkitkan Putra-Mu pada hari ketiga, dan kami percaya akan janji kebangkitan bagi semua orang yang percaya kepada-Mu. Terimalah doa kami, bersihkanlah arwah [Nama Almarhum/Almarhumah] dari segala noda dosa, dan antarkanlah ia ke hadirat-Mu. Demi Kristus, Tuhan kami.",
+          "umat": "Amin."
+        }
+      },
+      "bacaan_sabda": {
+        "bacaan_pertama": {
+          "teks": "Sebab aku yakin, bahwa baik kematian maupun kehidupan, baik malaikat maupun pemerintah dan penguasa, baik yang ada sekarang maupun yang akan datang, tidak akan dapat memisahkan kita dari kasih Allah, yang ada dalam Kristus Yesus, Tuhan kita. (Rm 8:38-39)",
+          "keterangan": "Bacaan Pertama dari Surat Paulus kepada Jemaat di Roma"
+        },
+        "bacaan_injil": {
+          "teks": "Janganlah kamu mengumpulkan harta di bumi, di mana ngengat dan karat merusakkannya dan di mana pencuri membongkar serta mencurinya. Tetapi kumpulkanlah bagimu harta di surga. (Mat 6:19-20)",
+          "keterangan": "Bacaan Injil Suci menurut Matius"
+        }
+      },
+      "renungan": {
+        "judul": "Harta yang Kekal",
+        "durasi": "5-10 menit",
+        "materi": "Saudara-saudari yang terkasih,\n\nPada hari ketiga peringatan wafatnya saudara/i kita [Nama Almarhum/Almarhumah], kita diingatkan akan kebenaran yang mendalam tentang hidup ini. Yesus mengajarkan kepada kita untuk tidak mengumpulkan harta di bumi yang bersifat sementara, melainkan harta di surga yang kekal abadi.\n\nApa yang dimaksud dengan harta di surga? Harta di surga adalah kasih, iman, pengharapan, perbuatan baik, dan segala sesuatu yang kita lakukan demi kemuliaan Allah. Semua ini tidak akan pernah binasa, tidak akan pernah hilang, dan akan menjadi bekal kita menuju kehidupan kekal.\n\nSaudara/i kita [Nama Almarhum/Almarhumah] telah menyelesaikan perjalanan hidupnya di dunia ini. Kita percaya bahwa segala kebaikan yang telah ia lakukan selama hidupnya menjadi harta yang berharga di hadapan Allah. Dalam bacaan pertama, Rasul Paulus meyakinkan kita bahwa tidak ada sesuatu pun yang dapat memisahkan kita dari kasih Allah dalam Kristus Yesus.\n\nMarilah kita jadikan peringatan tiga hari ini sebagai kesempatan untuk merenungkan hidup kita sendiri. Apakah kita sudah mengumpulkan harta yang kekal? Apakah hidup kita sudah berpusat pada kasih kepada Allah dan sesama? Semoga kita senantiasa diingatkan bahwa hidup ini hanyalah sementara, dan yang kekal adalah kasih Allah.\n\nKita juga berdoa bagi arwah [Nama Almarhum/Almarhumah], memohon agar Allah berkenan menyempurnakan segala kekurangannya dan menerimanya dalam kebahagiaan abadi. Semoga kita semua dikuatkan dalam iman dan pengharapan akan kebangkitan."
+      },
+      "doa_ujub": {
+        "keterangan": "Doa Ujub pertama dibawakan Prodiakon, dilanjutkan Lektor",
+        "ujub": [
+          {"pembawa": "Prodiakon", "teks": "Ya Tuhan, pada hari ketiga peringatan ini, kami mohonkan pengampunan dan kerahiman bagi arwah [Nama Almarhum/Almarhumah]. Bersihkanlah ia dari segala dosa dan antarkanlah ia kepada-Mu. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk keluarga yang masih berduka, agar mereka dikuatkan dalam iman dan pengharapan akan kebangkitan. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk arwah [Nama Almarhum/Almarhumah], agar ia menikmati damai Kristus dan bersatu dengan Allah dalam kemuliaan. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk semua arwah keluarga kami, agar mereka semua menikmati kebahagiaan surgawi. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk para imam dan biarawan/biarawati yang telah wafat, agar mereka menerima upah atas kesetiaan mereka. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk sahabat dan kenalan yang telah mendahului kami, agar mereka beristirahat dalam damai. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk orang-orang yang meninggal tanpa penghiburan sakramen, agar kerahiman Allah menyertai mereka. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk kita yang masih hidup, agar kita senantiasa mengumpulkan harta di surga. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk semua umat beriman yang telah wafat, agar mereka semua menikmati terang wajah Allah. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk perdamaian di seluruh dunia, agar tidak ada lagi peperangan dan penderitaan. Tuhan, dengarkanlah doa kami."}
+        ],
+        "jawaban_umat": "Tuhan, dengarkanlah doa kami."
+      },
+      "doa_rosario_arwah": {
+        "keterangan": "Doa Rosario Arwah khusus untuk almarhum/almarhumah",
+        "pembukaan": {
+          "pemimpin": "Dalam nama Bapa dan Putra dan Roh Kudus. Amin.",
+          "doa": "Ya Bunda Maria, pada hari ketiga ini kami berkumpul untuk mendoakan arwah [Nama Almarhum/Almarhumah]. Dampingilah kami dalam doa ini dan persembahkanlah doa kami kepada Putramu, Yesus Kristus. Amin."
+        },
+        "peristiwa_arwah": [
+          {
+            "peristiwa": 1,
+            "judul": "Peristiwa Iman akan Kebangkitan",
+            "renungan": "Kita percaya bahwa Kristus telah bangkit dan menjadi yang sulung dari mereka yang telah meninggal. Semoga [Nama Almarhum/Almarhumah] turut serta dalam kebangkitan Kristus.",
+            "ujub": "Ya Bapa, anugerahkanlah kebangkitan kekal kepada [Nama Almarhum/Almarhumah].",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 2,
+            "judul": "Peristiwa Pengharapan akan Pengampunan",
+            "renungan": "Allah adalah Bapa yang penuh kerahiman. Marilah kita mohon agar [Nama Almarhum/Almarhumah] menerima pengampunan penuh atas segala dosanya.",
+            "ujub": "Ya Bapa, curahkanlah pengampunan-Mu kepada [Nama Almarhum/Almarhumah].",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 3,
+            "judul": "Peristiwa Kasih yang Tak Terpisahkan",
+            "renungan": "Tidak ada yang dapat memisahkan kita dari kasih Allah. Marilah kita mohon agar [Nama Almarhum/Almarhumah] senantiasa berada dalam kasih Allah.",
+            "ujub": "Ya Bapa, peluklah [Nama Almarhum/Almarhumah] dalam kasih-Mu yang kekal.",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 4,
+            "judul": "Peristiwa Persatuan dengan Kristus",
+            "renungan": "Kristus adalah jalan, kebenaran, dan hidup. Marilah kita mohon agar [Nama Almarhum/Almarhumah] bersatu dengan Kristus dalam kemuliaan.",
+            "ujub": "Ya Bapa, satukanlah [Nama Almarhum/Almarhumah] dengan Kristus Putra-Mu.",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 5,
+            "judul": "Peristiwa Damai Abadi di Surga",
+            "renungan": "Marilah kita mohon agar [Nama Almarhum/Almarhumah] menikmati damai abadi di surga bersama para kudus.",
+            "ujub": "Ya Bapa, anugerahkanlah damai abadi kepada [Nama Almarhum/Almarhumah].",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          }
+        ],
+        "penutup_rosario": {
+          "doa_salam_ya_ratu": "Salam, ya Ratu, Bunda yang berbelaskasih, hidup, hiburan dan harapan kami. Kepada-Mu kami berseru, kami anak-anak Hawa yang terbuang. Kepada-Mu kami mengeluh, merintih dan menangis di lembah air mata ini. Maka, ya Pembela kami, arahkanlah pandangan-Mu yang penuh belas kasih kepada kami. Dan setelah pengembaraan ini, tunjukkanlah kepada kami Yesus, buah rahim-Mu yang terberkati. O Ratu yang murah hati, Bunda yang berbelaskasih, Perawan yang manis, ya Maria. Doakanlah kami, ya Bunda Allah yang kudus, agar kami layak menerima janji-janji Kristus."
+        }
+      },
+      "ritus_penutup": {
+        "pemimpin": "Prodiakon",
+        "doa_penutup": {
+          "pemimpin": "Marilah kita berdoa. Allah Bapa yang Mahabaik, kami bersyukur atas kasih dan penyertaan-Mu pada peringatan tiga hari ini. Terimalah doa-doa kami bagi arwah [Nama Almarhum/Almarhumah]. Semoga ia beristirahat dalam damai dan menikmati kebahagiaan kekal bersama-Mu. Kuatkanlah kami yang masih berziarah di dunia ini untuk senantiasa setia kepada-Mu. Demi Kristus, Tuhan kami.",
+          "umat": "Amin."
+        },
+        "berkat": {
+          "pemimpin": "Semoga Allah yang Mahakuasa memberkati kita semua, Bapa, Putra, dan Roh Kudus.",
+          "umat": "Amin."
+        },
+        "lagu_penutup": {
+          "judul": "Hatiku Gembira",
+          "sumber": "Madah Bakti",
+          "lirik": "Hatiku gembira karena Tuhan mendatangi umat-Nya. Damai dan bahagia, beserta cinta di tempat ini.",
+          "keterangan": "Lagu penutup untuk melantumkan pujian bagi keselamatan arwah"
+        }
+      }
+    },
+    {
+      "id": "peringatan_7_hari",
+      "nama": "Ibadat Peringatan 7 Hari",
+      "hari": "Hari ketujuh setelah wafat",
+      "warna_liturgi": "Ungu",
+      "ritus_pembuka": {
+        "lagu_pembuka": {
+          "judul": "Kekal Abadi Kasih Setia-Nya",
+          "sumber": "Madah Bakti No. 702",
+          "lirik": "Kekal abadi kasih setia-Nya, kekal abadi kasih setia-Nya. Bersyukurlah kepada Tuhan, sebab kekal abadi kasih setia-Nya.",
+          "keterangan": "Lagu pembukaan untuk melantumkan pujian dan permohonan keselamatan arwah"
+        },
+        "tanda_kemenangan": {
+          "pemimpin": "Dalam nama Bapa dan Putra dan Roh Kudus.",
+          "umat": "Amin."
+        },
+        "salam": {
+          "pemimpin": "Semoga rahmat Tuhan kita Yesus Kristus, cinta kasih Allah, dan persekutuan Roh Kudus bersamamu.",
+          "umat": "Dan bersama rohmu."
+        },
+        "doa_pembuka": {
+          "pemimpin": "Marilah kita berdoa. (hening sejenak)",
+          "doa": "Allah Bapa yang Mahakuasa dan kekal, pada hari ketujuh ini kami berkumpul untuk mendoakan saudara/i kami [Nama Almarhum/Almarhumah]. Engkau telah menciptakan segala sesuatu dan memeliharanya dengan kasih setia-Mu. Kami mohon, terimalah doa kami, ampunilah dosa-dosa [Nama Almarhum/Almarhumah], dan semoga ia Engkau terima dalam kedamaian abadi bersama para kudus di surga. Demi Kristus, Tuhan kami.",
+          "umat": "Amin."
+        }
+      },
+      "bacaan_sabda": {
+        "bacaan_pertama": {
+          "teks": "Sebab jika kita hidup, kita hidup untuk Tuhan, dan jika kita mati, kita mati untuk Tuhan. Jadi baik hidup atau mati, kita adalah milik Tuhan. (Rm 14:8)",
+          "keterangan": "Bacaan Pertama dari Surat Paulus kepada Jemaat di Roma"
+        },
+        "bacaan_injil": {
+          "teks": "Marilah kepada-Ku, semua yang letih lesu dan berbeban berat, Aku akan memberi kelegaan kepadamu. (Mat 11:28)",
+          "keterangan": "Bacaan Injil Suci menurut Matius"
+        }
+      },
+      "renungan": {
+        "judul": "Beristirahat dalam Tuhan",
+        "durasi": "5-10 menit",
+        "materi": "Saudara-saudari yang terkasih dalam Kristus,\n\nPada hari ketujuh peringatan wafatnya saudara/i kita [Nama Almarhum/Almarhumah], kita diingatkan akan janji Yesus: 'Marilah kepada-Ku, semua yang letih lesu dan berbeban berat, Aku akan memberi kelegaan kepadamu.'\n\nHidup di dunia ini seringkali penuh dengan beban dan penderitaan. Kita semua mengalami keletihan, baik fisik maupun spiritual. Namun, Yesus mengundang kita untuk datang kepada-Nya dan menemukan kelegaan. Bagi saudara/i kita [Nama Almarhum/Almarhumah], undangan ini telah terpenuhi. Ia telah dipanggil pulang ke rumah Bapa, tempat di mana tidak ada lagi tangisan, duka, atau penderitaan.\n\nRasul Paulus mengingatkan kita bahwa baik hidup maupun mati, kita adalah milik Tuhan. Ini adalah penghiburan yang besar bagi kita. Saudara/i kita yang telah mendahului kita tidak hilang, melainkan telah kembali kepada Pemiliknya, yaitu Tuhan sendiri.\n\nPeringatan tujuh hari ini juga mengajarkan kita tentang pentingnya persiapan. Kita tidak tahu kapan Tuhan akan memanggil kita. Oleh karena itu, marilah kita senantiasa hidup dalam keadaan siap sedia, hidup dalam kasih dan rahmat Allah.\n\nMarilah kita berdoa agar arwah [Nama Almarhum/Almarhumah] beristirahat dalam damai Kristus, dan semoga kita semua dikuatkan dalam iman untuk menghadapi perjalanan hidup ini sampai akhir."
+      },
+      "doa_ujub": {
+        "keterangan": "Doa Ujub pertama dibawakan Prodiakon, dilanjutkan Lektor",
+        "ujub": [
+          {"pembawa": "Prodiakon", "teks": "Ya Tuhan, pada hari ketujuh ini kami mohonkan perhentian yang kekal bagi arwah [Nama Almarhum/Almarhumah]. Berikanlah kepadanya kelegaan dari segala beban dan penderitaan dunia. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk keluarga yang masih berduka, agar mereka menemukan penghiburan dalam kasih Kristus. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk arwah [Nama Almarhum/Almarhumah], agar ia menikmati istirahat abadi dalam pangkuan kasih Allah. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk semua arwah yang telah lama meninggalkan dunia ini, agar mereka tidak dilupakan dalam doa kami. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk jiwa-jiwa di api penyucian, agar mereka segera dibebaskan dan menikmati kemuliaan surga. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk mereka yang meninggal dalam keadaan berdosa, agar kerahiman Allah menyelamatkan mereka. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk kita yang masih hidup, agar kita senantiasa siap menyambut panggilan Tuhan. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk orang tua kami yang telah wafat, agar mereka menikmati kebahagiaan kekal. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk saudara-saudari kami yang telah mendahului kami, agar mereka bersatu dengan Allah. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk semua umat beriman yang telah wafat, agar mereka semua menikmati terang wajah Allah. Tuhan, dengarkanlah doa kami."}
+        ],
+        "jawaban_umat": "Tuhan, dengarkanlah doa kami."
+      },
+      "doa_rosario_arwah": {
+        "keterangan": "Doa Rosario Arwah khusus untuk almarhum/almarhumah",
+        "pembukaan": {
+          "pemimpin": "Dalam nama Bapa dan Putra dan Roh Kudus. Amin.",
+          "doa": "Ya Bunda Maria, pada hari ketujuh ini kami berkumpul untuk mendoakan arwah [Nama Almarhum/Almarhumah]. Engkau yang telah mengalami duka terdalam, dampingilah kami dalam doa ini. Amin."
+        },
+        "peristiwa_arwah": [
+          {
+            "peristiwa": 1,
+            "judul": "Peristiwa Keletihan Hidup yang Berakhir",
+            "renungan": "Saudara/i kami [Nama Almarhum/Almarhumah] telah menyelesaikan perjalanan hidupnya. Semoga segala keletihan dan bebannya kini digantikan dengan kedamaian abadi.",
+            "ujub": "Ya Bapa, berikanlah kelegaan kekal kepada [Nama Almarhum/Almarhumah].",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 2,
+            "judul": "Peristiwa Kepulangan ke Rumah Bapa",
+            "renungan": "Yesus berkata bahwa di rumah Bapa-Nya ada banyak tempat. Marilah kita mohon agar [Nama Almarhum/Almarhumah] telah menemukan tempatnya di rumah Bapa.",
+            "ujub": "Ya Bapa, terimalah [Nama Almarhum/Almarhumah] di rumah-Mu yang kekal.",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 3,
+            "judul": "Peristiwa Istirahat dalam Damai Kristus",
+            "renungan": "Kristus adalah Gembala yang baik. Marilah kita mohon agar [Nama Almarhum/Almarhumah] beristirahat dalam pangkuan Gembala yang baik.",
+            "ujub": "Ya Yesus, berikanlah istirahat kekal kepada [Nama Almarhum/Almarhumah].",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 4,
+            "judul": "Peristiwa Penghiburan bagi yang Berduka",
+            "renungan": "Tuhan menghibur mereka yang berduka. Marilah kita mohon penghiburan bagi keluarga yang ditinggalkan.",
+            "ujub": "Ya Bapa, hiburlah keluarga yang ditinggalkan [Nama Almarhum/Almarhumah].",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 5,
+            "judul": "Peristiwa Persatuan dalam Kasih Allah",
+            "renungan": "Marilah kita mohon agar [Nama Almarhum/Almarhumah] bersatu dengan Allah dalam kasih yang kekal.",
+            "ujub": "Ya Bapa, satukanlah [Nama Almarhum/Almarhumah] dengan-Mu dalam kasih kekal.",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          }
+        ],
+        "penutup_rosario": {
+          "doa_salam_ya_ratu": "Salam, ya Ratu, Bunda yang berbelaskasih, hidup, hiburan dan harapan kami. Kepada-Mu kami berseru, kami anak-anak Hawa yang terbuang. Kepada-Mu kami mengeluh, merintih dan menangis di lembah air mata ini. Maka, ya Pembela kami, arahkanlah pandangan-Mu yang penuh belas kasih kepada kami. Dan setelah pengembaraan ini, tunjukkanlah kepada kami Yesus, buah rahim-Mu yang terberkati. O Ratu yang murah hati, Bunda yang berbelaskasih, Perawan yang manis, ya Maria. Doakanlah kami, ya Bunda Allah yang kudus, agar kami layak menerima janji-janji Kristus."
+        }
+      },
+      "ritus_penutup": {
+        "pemimpin": "Prodiakon",
+        "doa_penutup": {
+          "pemimpin": "Marilah kita berdoa. Allah Bapa yang penuh kasih, kami bersyukur atas penyertaan-Mu pada peringatan tujuh hari ini. Terimalah doa-doa kami bagi arwah [Nama Almarhum/Almarhumah]. Semoga ia beristirahat dalam damai Kristus dan menikmati kebahagiaan kekal bersama-Mu. Kuatkanlah kami yang masih berziarah di dunia ini untuk senantiasa setia kepada-Mu. Demi Kristus, Tuhan kami.",
+          "umat": "Amin."
+        },
+        "berkat": {
+          "pemimpin": "Semoga Allah yang Mahakuasa memberkati kita semua, Bapa, Putra, dan Roh Kudus.",
+          "umat": "Amin."
+        },
+        "lagu_penutup": {
+          "judul": "Tuhan yang Mahakuasa",
+          "sumber": "Madah Bakti No. 399",
+          "lirik": "Tuhan yang Maha Kuasa, Raja semesta alam. Takhta-Mu abadi mulia, tak akan mungkin silam.",
+          "keterangan": "Lagu penutup untuk melantumkan pujian bagi keselamatan arwah"
+        }
+      }
+    },
+    {
+      "id": "peringatan_40_hari",
+      "nama": "Ibadat Malam Tirakatan Peringatan 40 Hari",
+      "hari": "Hari keempat puluh setelah wafat",
+      "warna_liturgi": "Ungu",
+      "ritus_pembuka": {
+        "lagu_pembuka": {
+          "judul": "Rahmat Tuhan",
+          "sumber": "Madah Bakti No. 703",
+          "lirik": "Rahmat Tuhan, rahmat Tuhan, limpah bagiku. Rahmat Tuhan, rahmat Tuhan, limpah bagiku.",
+          "keterangan": "Lagu pembukaan untuk melantumkan pujian dan permohonan keselamatan arwah"
+        },
+        "tanda_kemenangan": {
+          "pemimpin": "Dalam nama Bapa dan Putra dan Roh Kudus.",
+          "umat": "Amin."
+        },
+        "salam": {
+          "pemimpin": "Kasih karunia dan damai sejahtera dari Allah, Bapa kita, dan dari Yesus Kristus, Putra-Nya, menyertai kamu sekalian.",
+          "umat": "Dan bersama rohmu."
+        },
+        "doa_pembuka": {
+          "pemimpin": "Marilah kita berdoa. (hening sejenak)",
+          "doa": "Allah Bapa yang Maharahim, pada hari keempat puluh ini kami berkumpul untuk mengenang dan mendoakan saudara/i kami [Nama Almarhum/Almarhumah]. Engkau adalah sumber segala rahmat dan pengampunan. Kami mohon, curahkanlah rahmat-Mu yang melimpah kepada [Nama Almarhum/Almarhumah], ampunilah segala dosanya, dan terimalah ia dalam kemuliaan surgawi. Demi Kristus, Tuhan kami.",
+          "umat": "Amin."
+        }
+      },
+      "bacaan_sabda": {
+        "bacaan_pertama": {
+          "teks": "Sebab aku yakin, bahwa baik kematian maupun kehidupan, baik malaikat maupun pemerintah dan penguasa, baik yang ada sekarang maupun yang akan datang, tidak akan dapat memisahkan kita dari kasih Allah, yang ada dalam Kristus Yesus, Tuhan kita. (Rm 8:38-39)",
+          "keterangan": "Bacaan Pertama dari Surat Paulus kepada Jemaat di Roma"
+        },
+        "bacaan_injil": {
+          "teks": "Sebab begitu besar kasih Allah akan dunia ini, sehingga Ia telah mengaruniakan Anak-Nya yang tunggal, supaya setiap orang yang percaya kepada-Nya tidak binasa, melainkan beroleh hidup yang kekal. (Yoh 3:16)",
+          "keterangan": "Bacaan Injil Suci menurut Yohanes"
+        }
+      },
+      "renungan": {
+        "judul": "Kasih Allah yang Tak Terbatas",
+        "durasi": "5-10 menit",
+        "materi": "Saudara-saudari yang terkasih dalam Kristus,\n\nPada peringatan empat puluh hari wafatnya saudara/i kita [Nama Almarhum/Almarhumah], kita diingatkan akan kasih Allah yang begitu besar kepada kita. Yohanes 3:16 menyatakan bahwa begitu besar kasih Allah akan dunia ini, sehingga Ia mengaruniakan Anak-Nya yang tunggal, supaya setiap orang yang percaya kepada-Nya tidak binasa, melainkan beroleh hidup yang kekal.\n\nInilah inti dari iman kita. Allah tidak menghendaki kebinasaan siapa pun, melainkan keselamatan semua orang. Melalui Yesus Kristus, pintu surga telah terbuka bagi kita. Kematian bukan lagi akhir yang menakutkan, melainkan pintu menuju kehidupan kekal bersama Allah.\n\nRasul Paulus meyakinkan kita bahwa tidak ada sesuatu pun yang dapat memisahkan kita dari kasih Allah. Baik kematian maupun kehidupan, baik yang ada sekarang maupun yang akan datang, semuanya tidak berkuasa untuk memisahkan kita dari kasih-Nya. Ini adalah penghiburan yang luar biasa bagi kita yang berduka.\n\nSaudara/i kita [Nama Almarhum/Almarhumah] telah kembali kepada Sumber Kasih itu. Kita percaya bahwa ia kini berada dalam pelukan kasih Allah yang tidak terbatas. Kita juga berdoa agar segala dosa dan kekurangannya diampuni, dan ia diterima dalam kemuliaan surgawi.\n\nMarilah kita jadikan peringatan empat puluh hari ini sebagai momen untuk merenungkan kasih Allah dalam hidup kita. Apakah kita sudah merasakan kasih itu? Apakah kita sudah membagikan kasih itu kepada sesama? Semoga kita semua semakin mendalami kasih Allah yang tak terbatas."
+      },
+      "doa_ujub": {
+        "keterangan": "Doa Ujub pertama dibawakan Prodiakon, dilanjutkan Lektor",
+        "ujub": [
+          {"pembawa": "Prodiakon", "teks": "Ya Tuhan, pada hari keempat puluh ini kami mohonkan curahan rahmat-Mu bagi arwah [Nama Almarhum/Almarhumah]. Ampunilah segala dosanya dan terimalah ia dalam kemuliaan surgawi. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk keluarga yang masih berduka, agar mereka merasakan kasih Allah yang menghibur. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk arwah [Nama Almarhum/Almarhumah], agar ia menikmati hidup kekal bersama Allah. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk jiwa-jiwa di api penyucian, agar mereka segera dibebaskan dan menikmati kemuliaan surga. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk semua arwah keluarga kami, agar mereka bersatu dengan Allah dalam kasih-Nya. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk para imam dan pelayan Gereja yang telah wafat, agar mereka menerima upah atas pengabdiannya. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk sahabat dan kerabat yang telah mendahului kami, agar mereka beristirahat dalam damai Kristus. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk kita yang masih hidup, agar kita senantiasa merasakan dan membagikan kasih Allah. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk semua umat beriman yang telah wafat, agar mereka semua menikmati terang wajah Allah. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk perdamaian dunia, agar kasih Allah meraja di hati semua orang. Tuhan, dengarkanlah doa kami."}
+        ],
+        "jawaban_umat": "Tuhan, dengarkanlah doa kami."
+      },
+      "doa_rosario_arwah": {
+        "keterangan": "Doa Rosario Arwah khusus untuk almarhum/almarhumah",
+        "pembukaan": {
+          "pemimpin": "Dalam nama Bapa dan Putra dan Roh Kudus. Amin.",
+          "doa": "Ya Bunda Maria, pada hari keempat puluh ini kami berkumpul untuk mendoakan arwah [Nama Almarhum/Almarhumah]. Engkau yang penuh rahmat, dampingilah kami dalam doa ini. Amin."
+        },
+        "peristiwa_arwah": [
+          {
+            "peristiwa": 1,
+            "judul": "Peristiwa Kasih Allah yang Mencari yang Hilang",
+            "renungan": "Allah selalu mencari mereka yang tersesat. Marilah kita mohon agar [Nama Almarhum/Almarhumah] ditemukan oleh kasih Allah.",
+            "ujub": "Ya Bapa, temukanlah [Nama Almarhum/Almarhumah] dalam kasih-Mu.",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 2,
+            "judul": "Peristiwa Pengampunan yang Melimpah",
+            "renungan": "Allah kaya akan pengampunan. Marilah kita mohon agar [Nama Almarhum/Almarhumah] menerima pengampunan yang melimpah.",
+            "ujub": "Ya Bapa, curahkanlah pengampunan-Mu kepada [Nama Almarhum/Almarhumah].",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 3,
+            "judul": "Peristiwa Hidup Kekal dalam Kristus",
+            "renungan": "Kristus adalah roti hidup yang turun dari surga. Marilah kita mohon agar [Nama Almarhum/Almarhumah] menikmati hidup kekal dalam Kristus.",
+            "ujub": "Ya Yesus, anugerahkanlah hidup kekal kepada [Nama Almarhum/Almarhumah].",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 4,
+            "judul": "Peristiwa Pengharapan akan Kemuliaan",
+            "renungan": "Kita menantikan kemuliaan yang akan dinyatakan kepada kita. Marilah kita mohon agar [Nama Almarhum/Almarhumah] menikmati kemuliaan itu.",
+            "ujub": "Ya Bapa, nyatakanlah kemuliaan-Mu kepada [Nama Almarhum/Almarhumah].",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 5,
+            "judul": "Peristiwa Persatuan Kekal dengan Allah",
+            "renungan": "Marilah kita mohon agar [Nama Almarhum/Almarhumah] bersatu secara kekal dengan Allah dalam kasih-Nya.",
+            "ujub": "Ya Bapa, satukanlah [Nama Almarhum/Almarhumah] dengan-Mu secara kekal.",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          }
+        ],
+        "penutup_rosario": {
+          "doa_salam_ya_ratu": "Salam, ya Ratu, Bunda yang berbelaskasih, hidup, hiburan dan harapan kami. Kepada-Mu kami berseru, kami anak-anak Hawa yang terbuang. Kepada-Mu kami mengeluh, merintih dan menangis di lembah air mata ini. Maka, ya Pembela kami, arahkanlah pandangan-Mu yang penuh belas kasih kepada kami. Dan setelah pengembaraan ini, tunjukkanlah kepada kami Yesus, buah rahim-Mu yang terberkati. O Ratu yang murah hati, Bunda yang berbelaskasih, Perawan yang manis, ya Maria. Doakanlah kami, ya Bunda Allah yang kudus, agar kami layak menerima janji-janji Kristus."
+        }
+      },
+      "ritus_penutup": {
+        "pemimpin": "Prodiakon",
+        "doa_penutup": {
+          "pemimpin": "Marilah kita berdoa. Allah Bapa yang penuh rahmat, kami bersyukur atas kasih-Mu yang melimpah pada peringatan empat puluh hari ini. Terimalah doa-doa kami bagi arwah [Nama Almarhum/Almarhumah]. Semoga ia beristirahat dalam damai Kristus dan menikmati hidup kekal bersama-Mu. Kuatkanlah kami yang masih berziarah di dunia ini untuk senantiasa merasakan dan membagikan kasih-Mu. Demi Kristus, Tuhan kami.",
+          "umat": "Amin."
+        },
+        "berkat": {
+          "pemimpin": "Semoga Allah yang Mahakuasa memberkati kita semua, Bapa, Putra, dan Roh Kudus.",
+          "umat": "Amin."
+        },
+        "lagu_penutup": {
+          "judul": "Terima Kasih Kami Lambungkan",
+          "sumber": "Madah Bakti No. 704",
+          "lirik": "Terima kasih kami lambungkan, kepada-Mu ya Tuhan. Atas kasih dan rahmat-Mu, yang tak pernah berkesudahan.",
+          "keterangan": "Lagu penutup untuk melantumkan pujian bagi keselamatan arwah"
+        }
+      }
+    },
+    {
+      "id": "peringatan_100_hari",
+      "nama": "Ibadat Malam Tirakatan Peringatan 100 Hari",
+      "hari": "Hari keseratus setelah wafat",
+      "warna_liturgi": "Ungu",
+      "ritus_pembuka": {
+        "lagu_pembuka": {
+          "judul": "Terima Kasih Tuhan",
+          "sumber": "Madah Bakti No. 705",
+          "lirik": "Terima kasih Tuhan, atas segala rahmat-Mu. Terima kasih Tuhan, atas kasih setia-Mu.",
+          "keterangan": "Lagu pembukaan untuk melantumkan pujian dan permohonan keselamatan arwah"
+        },
+        "tanda_kemenangan": {
+          "pemimpin": "Dalam nama Bapa dan Putra dan Roh Kudus.",
+          "umat": "Amin."
+        },
+        "salam": {
+          "pemimpin": "Semoga rahmat Tuhan kita Yesus Kristus, cinta kasih Allah, dan persekutuan Roh Kudus bersamamu.",
+          "umat": "Dan bersama rohmu."
+        },
+        "doa_pembuka": {
+          "pemimpin": "Marilah kita berdoa. (hening sejenak)",
+          "doa": "Allah Bapa yang Mahakuasa, pada hari keseratus ini kami berkumpul untuk mengenang dan mendoakan saudara/i kami [Nama Almarhum/Almarhumah]. Kami bersyukur atas segala kasih dan penyertaan-Mu dalam hidupnya. Kami mohon, terimalah doa kami, ampunilah segala dosanya, dan semoga ia Engkau terima dalam kebahagiaan kekal bersama para kudus di surga. Demi Kristus, Tuhan kami.",
+          "umat": "Amin."
+        }
+      },
+      "bacaan_sabda": {
+        "bacaan_pertama": {
+          "teks": "Karena bagiku hidup adalah Kristus dan mati adalah keuntungan. (Flp 1:21)",
+          "keterangan": "Bacaan Pertama dari Surat Paulus kepada Jemaat di Filipi"
+        },
+        "bacaan_injil": {
+          "teks": "Akulah jalan dan kebenaran dan hidup. Tidak ada seorang pun yang datang kepada Bapa, kalau tidak melalui Aku. (Yoh 14:6)",
+          "keterangan": "Bacaan Injil Suci menurut Yohanes"
+        }
+      },
+      "renungan": {
+        "judul": "Kristus sebagai Jalan, Kebenaran, dan Hidup",
+        "durasi": "5-10 menit",
+        "materi": "Saudara-saudari yang terkasih dalam Kristus,\n\nPada peringatan seratus hari wafatnya saudara/i kita [Nama Almarhum/Almarhumah], kita diingatkan akan sabda Yesus: 'Akulah jalan dan kebenaran dan hidup.'\n\nYesus adalah jalan menuju Bapa. Tidak ada jalan lain menuju keselamatan selain melalui Dia. Dalam hidupnya, saudara/i kita [Nama Almarhum/Almarhumah] telah berusaha untuk mengikuti jalan ini. Kita percaya bahwa ia kini telah sampai pada tujuan akhir dari perjalanannya, yaitu Bapa sendiri.\n\nYesus adalah kebenaran. Di tengah dunia yang penuh dengan kebohongan dan kepalsuan, Yesus adalah kebenaran yang sejati. Kita dipanggil untuk hidup dalam kebenaran ini, hidup sesuai dengan ajaran-Nya.\n\nYesus adalah hidup. Hidup yang Dia berikan bukanlah hidup yang sementara, melainkan hidup yang kekal. Rasul Paulus berkata, 'Bagiku hidup adalah Kristus dan mati adalah keuntungan.' Bagi saudara/i kita [Nama Almarhum/Almarhumah], kematian telah menjadi keuntungan, karena ia kini bersama Kristus.\n\nPeringatan seratus hari ini mengajak kita untuk merenungkan apakah kita sudah menjadikan Kristus sebagai jalan, kebenaran, dan hidup kita. Apakah kita sudah mengikuti Dia dengan setia? Semoga kita semua dapat meneladani iman saudara/i kita [Nama Almarhum/Almarhumah] dan semakin mendekatkan diri kepada Kristus."
+      },
+      "doa_ujub": {
+        "keterangan": "Doa Ujub pertama dibawakan Prodiakon, dilanjutkan Lektor",
+        "ujub": [
+          {"pembawa": "Prodiakon", "teks": "Ya Tuhan, pada hari keseratus ini kami bersyukur atas hidup [Nama Almarhum/Almarhumah] dan kami mohonkan pengampunan atas segala dosanya. Terimalah ia dalam kebahagiaan kekal bersama-Mu. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk keluarga yang masih berduka, agar mereka menemukan kekuatan dan penghiburan dalam Kristus. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk arwah [Nama Almarhum/Almarhumah], agar ia bersatu dengan Kristus dalam kemuliaan surgawi. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk jiwa-jiwa di api penyucian, agar mereka segera dibebaskan dan menikmati terang Allah. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk semua arwah keluarga kami, agar mereka semua menikmati kebahagiaan kekal. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk para imam dan biarawan/biarawati yang telah wafat, agar mereka menerima upah atas kesetiaan mereka. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk sahabat dan kerabat yang telah mendahului kami, agar mereka beristirahat dalam damai Kristus. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk kita yang masih hidup, agar kita senantiasa menjadikan Kristus sebagai jalan, kebenaran, dan hidup. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk semua umat beriman yang telah wafat, agar mereka semua menikmati terang wajah Allah. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk perdamaian dunia, agar semua orang mengenal Kristus sebagai jalan menuju keselamatan. Tuhan, dengarkanlah doa kami."}
+        ],
+        "jawaban_umat": "Tuhan, dengarkanlah doa kami."
+      },
+      "doa_rosario_arwah": {
+        "keterangan": "Doa Rosario Arwah khusus untuk almarhum/almarhumah",
+        "pembukaan": {
+          "pemimpin": "Dalam nama Bapa dan Putra dan Roh Kudus. Amin.",
+          "doa": "Ya Bunda Maria, pada hari keseratus ini kami berkumpul untuk mendoakan arwah [Nama Almarhum/Almarhumah]. Engkau yang telah menunjukkan jalan menuju Putramu, dampingilah kami dalam doa ini. Amin."
+        },
+        "peristiwa_arwah": [
+          {
+            "peristiwa": 1,
+            "judul": "Peristiwa Kristus sebagai Jalan",
+            "renungan": "Kristus adalah jalan menuju Bapa. Marilah kita mohon agar [Nama Almarhum/Almarhumah] telah menemukan jalan menuju kehidupan kekal.",
+            "ujub": "Ya Yesus, tunjukkanlah jalan kekal kepada [Nama Almarhum/Almarhumah].",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 2,
+            "judul": "Peristiwa Kristus sebagai Kebenaran",
+            "renungan": "Kristus adalah kebenaran yang membebaskan. Marilah kita mohon agar [Nama Almarhum/Almarhumah] telah sampai pada kebenaran yang sejati.",
+            "ujub": "Ya Yesus, terimalah [Nama Almarhum/Almarhumah] dalam kebenaran-Mu yang kekal.",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 3,
+            "judul": "Peristiwa Kristus sebagai Hidup",
+            "renungan": "Kristus adalah hidup yang kekal. Marilah kita mohon agar [Nama Almarhum/Almarhumah] menikmati hidup kekal dalam Kristus.",
+            "ujub": "Ya Yesus, anugerahkanlah hidup kekal kepada [Nama Almarhum/Almarhumah].",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 4,
+            "judul": "Peristiwa Rumah Bapa yang Kekal",
+            "renungan": "Di rumah Bapa ada banyak tempat. Marilah kita mohon agar [Nama Almarhum/Almarhumah] telah menemukan tempatnya di rumah Bapa.",
+            "ujub": "Ya Bapa, terimalah [Nama Almarhum/Almarhumah] di rumah-Mu yang kekal.",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 5,
+            "judul": "Peristiwa Persatuan dengan Allah Tritunggal",
+            "renungan": "Marilah kita mohon agar [Nama Almarhum/Almarhumah] bersatu dengan Allah Tritunggal dalam kemuliaan abadi.",
+            "ujub": "Ya Allah Tritunggal, satukanlah [Nama Almarhum/Almarhumah] dengan-Mu dalam kemuliaan abadi.",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          }
+        ],
+        "penutup_rosario": {
+          "doa_salam_ya_ratu": "Salam, ya Ratu, Bunda yang berbelaskasih, hidup, hiburan dan harapan kami. Kepada-Mu kami berseru, kami anak-anak Hawa yang terbuang. Kepada-Mu kami mengeluh, merintih dan menangis di lembah air mata ini. Maka, ya Pembela kami, arahkanlah pandangan-Mu yang penuh belas kasih kepada kami. Dan setelah pengembaraan ini, tunjukkanlah kepada kami Yesus, buah rahim-Mu yang terberkati. O Ratu yang murah hati, Bunda yang berbelaskasih, Perawan yang manis, ya Maria. Doakanlah kami, ya Bunda Allah yang kudus, agar kami layak menerima janji-janji Kristus."
+        }
+      },
+      "ritus_penutup": {
+        "pemimpin": "Prodiakon",
+        "doa_penutup": {
+          "pemimpin": "Marilah kita berdoa. Allah Bapa yang Mahabaik, kami bersyukur atas penyertaan-Mu pada peringatan seratus hari ini. Terimalah doa-doa kami bagi arwah [Nama Almarhum/Almarhumah]. Semoga ia beristirahat dalam damai Kristus dan menikmati hidup kekal bersama-Mu. Kuatkanlah kami yang masih berziarah di dunia ini untuk senantiasa menjadikan Kristus sebagai jalan, kebenaran, dan hidup. Demi Kristus, Tuhan kami.",
+          "umat": "Amin."
+        },
+        "berkat": {
+          "pemimpin": "Semoga Allah yang Mahakuasa memberkati kita semua, Bapa, Putra, dan Roh Kudus.",
+          "umat": "Amin."
+        },
+        "lagu_penutup": {
+          "judul": "Cari Kerajaan Surga",
+          "sumber": "Madah Bakti No. 707",
+          "lirik": "Cari kerajaan surga, dan kebenarannya. Maka semuanya akan ditambahkan kepadamu.",
+          "keterangan": "Lagu penutup untuk melantumkan pujian bagi keselamatan arwah"
+        }
+      }
+    },
+    {
+      "id": "peringatan_1_tahun",
+      "nama": "Ibadat Malam Tirakatan Peringatan 1 Tahun",
+      "hari": "Setahun setelah wafat",
+      "warna_liturgi": "Ungu",
+      "ritus_pembuka": {
+        "lagu_pembuka": {
+          "judul": "Tuhan Sumber Kasih",
+          "sumber": "Madah Bakti No. 708",
+          "lirik": "Tuhan sumber kasih, sumber segala rahmat. Kami memuji-Mu, kami menyembah-Mu.",
+          "keterangan": "Lagu pembukaan untuk melantumkan pujian dan permohonan keselamatan arwah"
+        },
+        "tanda_kemenangan": {
+          "pemimpin": "Dalam nama Bapa dan Putra dan Roh Kudus.",
+          "umat": "Amin."
+        },
+        "salam": {
+          "pemimpin": "Kasih karunia dan damai sejahtera dari Allah, Bapa kita, dan dari Yesus Kristus, Putra-Nya, menyertai kamu sekalian.",
+          "umat": "Dan bersama rohmu."
+        },
+        "doa_pembuka": {
+          "pemimpin": "Marilah kita berdoa. (hening sejenak)",
+          "doa": "Allah Bapa yang kekal dan Mahakuasa, pada peringatan satu tahun wafatnya saudara/i kami [Nama Almarhum/Almarhumah], kami berkumpul untuk mengenang dan mendoakannya. Kami bersyukur atas segala kasih dan berkat yang Engkau berikan melalui hidupnya. Kami mohon, terimalah doa kami, ampunilah segala dosanya, dan semoga ia Engkau terima dalam kebahagiaan kekal bersama para kudus di surga. Demi Kristus, Tuhan kami.",
+          "umat": "Amin."
+        }
+      },
+      "bacaan_sabda": {
+        "bacaan_pertama": {
+          "teks": "Sebab kami tahu, bahwa jika kemah tempat kediaman kita di bumi ini dibongkar, Allah telah menyediakan suatu tempat kediaman di sorga bagi kita, suatu tempat kediaman yang kekal, yang tidak dibuat oleh tangan manusia. (2Kor 5:1)",
+          "keterangan": "Bacaan Pertama dari Surat Paulus yang Kedua kepada Jemaat di Korintus"
+        },
+        "bacaan_injil": {
+          "teks": "Janganlah gelisah hatimu; percayalah kepada Allah, percayalah juga kepada-Ku. Di rumah Bapa-Ku banyak tempat tinggal. Jika tidak demikian, tentu Aku mengatakannya kepadamu. Sebab Aku pergi ke situ untuk menyediakan tempat bagimu. (Yoh 14:1-2)",
+          "keterangan": "Bacaan Injil Suci menurut Yohanes"
+        }
+      },
+      "renungan": {
+        "judul": "Tempat Kediaman yang Kekal",
+        "durasi": "5-10 menit",
+        "materi": "Saudara-saudari yang terkasih dalam Kristus,\n\nPada peringatan satu tahun wafatnya saudara/i kita [Nama Almarhum/Almarhumah], kita diingatkan akan janji Yesus: 'Di rumah Bapa-Ku banyak tempat tinggal. Aku pergi ke situ untuk menyediakan tempat bagimu.'\n\nJanji ini adalah penghiburan yang besar bagi kita. Yesus tidak hanya menjanjikan kehidupan kekal, tetapi juga tempat yang telah disediakan khusus bagi kita masing-masing. Saudara/i kita [Nama Almarhum/Almarhumah] telah pergi untuk menempati tempat yang telah disediakan baginya.\n\nRasul Paulus menggambarkan hidup di dunia ini sebagai tinggal di dalam kemah yang sementara. Kemah ini akan dibongkar, tetapi Allah telah menyediakan tempat kediaman yang kekal di surga, yang tidak dibuat oleh tangan manusia. Inilah pengharapan kita.\n\nSetahun telah berlalu sejak kepergian saudara/i kita. Mungkin masih ada rasa kehilangan dan duka di hati kita. Namun, iman kita mengajarkan bahwa perpisahan ini hanyalah sementara. Suatu hari nanti, kita akan bertemu kembali di rumah Bapa, tempat di mana tidak ada lagi perpisahan dan air mata.\n\nMarilah kita jadikan peringatan satu tahun ini sebagai momen untuk memperbaharui iman dan pengharapan kita akan kehidupan kekal. Semoga kita semua semakin rindu untuk sampai ke rumah Bapa, dan semoga kita senantiasa hidup sesuai dengan kehendak-Nya.\n\nKita juga berdoa bagi arwah [Nama Almarhum/Almarhumah], memohon agar ia telah menempati tempat yang disediakan Yesus baginya, dan menikmati kebahagiaan kekal bersama Allah dan para kudus."
+      },
+      "doa_ujub": {
+        "keterangan": "Doa Ujub pertama dibawakan Prodiakon, dilanjutkan Lektor",
+        "ujub": [
+          {"pembawa": "Prodiakon", "teks": "Ya Tuhan, pada peringatan satu tahun ini kami mohonkan pengampunan dan kerahiman bagi arwah [Nama Almarhum/Almarhumah]. Terimalah ia dalam tempat kediaman yang kekal bersama-Mu. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk keluarga yang masih berduka, agar mereka dikuatkan dalam pengharapan akan perjumpaan kembali di surga. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk arwah [Nama Almarhum/Almarhumah], agar ia menikmati tempat yang telah disediakan Yesus baginya. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk jiwa-jiwa di api penyucian, agar mereka segera dibebaskan dan menikmati kebahagiaan surga. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk semua arwah keluarga kami, agar mereka semua bersatu dengan Allah dalam kemuliaan. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk para imam dan pelayan Gereja yang telah wafat, agar mereka menerima upah atas pengabdiannya. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk sahabat dan kerabat yang telah mendahului kami, agar mereka beristirahat dalam damai Kristus. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk kita yang masih hidup, agar kita senantiasa merindukan rumah Bapa. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk semua umat beriman yang telah wafat, agar mereka semua menikmati terang wajah Allah. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk perdamaian dunia, agar semua orang merindukan dan mencari kerajaan surga. Tuhan, dengarkanlah doa kami."}
+        ],
+        "jawaban_umat": "Tuhan, dengarkanlah doa kami."
+      },
+      "doa_rosario_arwah": {
+        "keterangan": "Doa Rosario Arwah khusus untuk almarhum/almarhumah",
+        "pembukaan": {
+          "pemimpin": "Dalam nama Bapa dan Putra dan Roh Kudus. Amin.",
+          "doa": "Ya Bunda Maria, pada peringatan satu tahun ini kami berkumpul untuk mendoakan arwah [Nama Almarhum/Almarhumah]. Engkau yang telah dipersatukan dengan Putramu di surga, dampingilah kami dalam doa ini. Amin."
+        },
+        "peristiwa_arwah": [
+          {
+            "peristiwa": 1,
+            "judul": "Peristiwa Rumah Bapa yang Menanti",
+            "renungan": "Yesus telah menyediakan tempat di rumah Bapa bagi kita. Marilah kita mohon agar [Nama Almarhum/Almarhumah] telah menemukan tempatnya di rumah Bapa.",
+            "ujub": "Ya Yesus, terimalah [Nama Almarhum/Almarhumah] di rumah Bapa.",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 2,
+            "judul": "Peristiwa Kemah yang Kekal",
+            "renungan": "Allah telah menyediakan tempat kediaman yang kekal bagi kita. Marilah kita mohon agar [Nama Almarhum/Almarhumah] telah menempati kemah yang kekal itu.",
+            "ujub": "Ya Bapa, berikanlah kemah kekal kepada [Nama Almarhum/Almarhumah].",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 3,
+            "judul": "Peristiwa Pengharapan akan Perjumpaan Kembali",
+            "renungan": "Kita berharap akan berjumpa kembali dengan orang-orang yang kita kasihi di surga. Marilah kita mohon agar perjumpaan itu menjadi kenyataan bagi [Nama Almarhum/Almarhumah] dan kita semua.",
+            "ujub": "Ya Bapa, anugerahkanlah perjumpaan kembali di surga bagi kami dan [Nama Almarhum/Almarhumah].",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 4,
+            "judul": "Peristiwa Damai yang Melampaui Segala Pengertian",
+            "renungan": "Damai Allah melampaui segala pengertian manusia. Marilah kita mohon agar [Nama Almarhum/Almarhumah] menikmati damai yang sempurna di surga.",
+            "ujub": "Ya Bapa, anugerahkanlah damai sempurna kepada [Nama Almarhum/Almarhumah].",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 5,
+            "judul": "Peristiwa Persatuan dengan Para Kudus",
+            "renungan": "Marilah kita mohon agar [Nama Almarhum/Almarhumah] bersatu dengan Bunda Maria, para malaikat, dan semua orang kudus di surga.",
+            "ujub": "Ya Bapa, satukanlah [Nama Almarhum/Almarhumah] dengan para kudus di surga.",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          }
+        ],
+        "penutup_rosario": {
+          "doa_salam_ya_ratu": "Salam, ya Ratu, Bunda yang berbelaskasih, hidup, hiburan dan harapan kami. Kepada-Mu kami berseru, kami anak-anak Hawa yang terbuang. Kepada-Mu kami mengeluh, merintih dan menangis di lembah air mata ini. Maka, ya Pembela kami, arahkanlah pandangan-Mu yang penuh belas kasih kepada kami. Dan setelah pengembaraan ini, tunjukkanlah kepada kami Yesus, buah rahim-Mu yang terberkati. O Ratu yang murah hati, Bunda yang berbelaskasih, Perawan yang manis, ya Maria. Doakanlah kami, ya Bunda Allah yang kudus, agar kami layak menerima janji-janji Kristus."
+        }
+      },
+      "ritus_penutup": {
+        "pemimpin": "Prodiakon",
+        "doa_penutup": {
+          "pemimpin": "Marilah kita berdoa. Allah Bapa yang kekal, kami bersyukur atas penyertaan-Mu pada peringatan satu tahun ini. Terimalah doa-doa kami bagi arwah [Nama Almarhum/Almarhumah]. Semoga ia beristirahat dalam damai Kristus dan menikmati tempat kediaman yang kekal bersama-Mu. Kuatkanlah kami yang masih berziarah di dunia ini untuk senantiasa merindukan rumah Bapa. Demi Kristus, Tuhan kami.",
+          "umat": "Amin."
+        },
+        "berkat": {
+          "pemimpin": "Semoga Allah yang Mahakuasa memberkati kita semua, Bapa, Putra, dan Roh Kudus.",
+          "umat": "Amin."
+        },
+        "lagu_penutup": {
+          "judul": "Trima Syukur Kami",
+          "sumber": "Madah Bakti No. 709",
+          "lirik": "Trima syukur kami, ya Tuhan, atas segala kasih-Mu. Trima syukur kami, ya Tuhan, atas penyertaan-Mu.",
+          "keterangan": "Lagu penutup untuk melantumkan pujian bagi keselamatan arwah"
+        }
+      }
+    },
+    {
+      "id": "peringatan_2_tahun",
+      "nama": "Ibadat Malam Tirakatan Peringatan 2 Tahun",
+      "hari": "Dua tahun setelah wafat",
+      "warna_liturgi": "Ungu",
+      "ritus_pembuka": {
+        "lagu_pembuka": {
+          "judul": "Tinggallah dalam Hati",
+          "sumber": "Madah Bakti No. 701",
+          "lirik": "Tinggallah dalam hati, tinggallah dalam hati. Tinggallah dalam hati, dan berbuah banyak.",
+          "keterangan": "Lagu pembukaan untuk melantumkan pujian dan permohonan keselamatan arwah"
+        },
+        "tanda_kemenangan": {
+          "pemimpin": "Dalam nama Bapa dan Putra dan Roh Kudus.",
+          "umat": "Amin."
+        },
+        "salam": {
+          "pemimpin": "Semoga rahmat Tuhan kita Yesus Kristus, cinta kasih Allah, dan persekutuan Roh Kudus bersamamu.",
+          "umat": "Dan bersama rohmu."
+        },
+        "doa_pembuka": {
+          "pemimpin": "Marilah kita berdoa. (hening sejenak)",
+          "doa": "Allah Bapa yang Mahakasih, pada peringatan dua tahun wafatnya saudara/i kami [Nama Almarhum/Almarhumah], kami berkumpul untuk mengenang dan mendoakannya. Kami bersyukur atas segala kenangan indah dan teladan iman yang telah ia tinggalkan. Kami mohon, terimalah doa kami, ampunilah segala dosanya, dan semoga ia Engkau terima dalam kebahagiaan kekal bersama para kudus di surga. Demi Kristus, Tuhan kami.",
+          "umat": "Amin."
+        }
+      },
+      "bacaan_sabda": {
+        "bacaan_pertama": {
+          "teks": "Karena itu, saudara-saudara, kami tidak tawar hati. Meskipun manusia lahiriah kami semakin merosot, namun manusia batiniah kami dibaharui dari sehari ke sehari. (2Kor 4:16)",
+          "keterangan": "Bacaan Pertama dari Surat Paulus yang Kedua kepada Jemaat di Korintus"
+        },
+        "bacaan_injil": {
+          "teks": "Sesungguhnya, jikalau biji gandum tidak jatuh ke dalam tanah dan mati, ia tetap satu biji saja; tetapi jika ia mati, ia akan menghasilkan banyak buah. (Yoh 12:24)",
+          "keterangan": "Bacaan Injil Suci menurut Yohanes"
+        }
+      },
+      "renungan": {
+        "judul": "Menghasilkan Buah dari Kematian",
+        "durasi": "5-10 menit",
+        "materi": "Saudara-saudari yang terkasih dalam Kristus,\n\nPada peringatan dua tahun wafatnya saudara/i kita [Nama Almarhum/Almarhumah], kita diingatkan akan sabda Yesus: 'Jikalau biji gandum tidak jatuh ke dalam tanah dan mati, ia tetap satu biji saja; tetapi jika ia mati, ia akan menghasilkan banyak buah.'\n\nKematian bukanlah akhir, melainkan awal dari kehidupan baru. Seperti biji gandum yang harus mati terlebih dahulu sebelum menghasilkan buah yang banyak, demikian pula hidup kita. Kematian jasmani kita akan membuka jalan menuju kehidupan yang kekal dan berbuah.\n\nSaudara/i kita [Nama Almarhum/Almarhumah] telah mendahului kita. Kepergiannya meninggalkan kenangan dan teladan yang berharga bagi kita. Kita percaya bahwa kebaikan dan kasih yang telah ia tabur selama hidupnya akan terus berbuah, bahkan setelah kepergiannya.\n\nRasul Paulus mengingatkan kita bahwa meskipun manusia lahiriah kita semakin merosot, namun manusia batiniah kita dibaharui dari sehari ke sehari. Ini adalah penghiburan bagi kita yang semakin menua dan mendekati akhir hidup kita. Setiap hari, kita dipanggil untuk bertumbuh dalam iman dan kasih, mempersiapkan diri untuk kehidupan yang kekal.\n\nMarilah kita jadikan peringatan dua tahun ini sebagai momen untuk merenungkan bagaimana hidup kita dapat menghasilkan buah yang berlimpah. Apakah kita sudah menabur kebaikan dalam hidup ini? Apakah kita sudah menjadi berkat bagi orang lain?\n\nKita juga berdoa bagi arwah [Nama Almarhum/Almarhumah], memohon agar segala kebaikannya berbuah dalam kehidupan kekal, dan semoga ia menikmati damai dan kebahagiaan di surga."
+      },
+      "doa_ujub": {
+        "keterangan": "Doa Ujub pertama dibawakan Prodiakon, dilanjutkan Lektor",
+        "ujub": [
+          {"pembawa": "Prodiakon", "teks": "Ya Tuhan, pada peringatan dua tahun ini kami mohonkan pengampunan dan kerahiman bagi arwah [Nama Almarhum/Almarhumah]. Semoga segala kebaikannya berbuah dalam kehidupan kekal. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk keluarga yang masih berduka, agar mereka dikuatkan dan dihibur dalam kasih Kristus. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk arwah [Nama Almarhum/Almarhumah], agar ia menikmati kebahagiaan kekal bersama Allah dan para kudus. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk jiwa-jiwa di api penyucian, agar mereka segera dibebaskan dan menikmati kemuliaan surga. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk semua arwah keluarga kami, agar mereka semua bersatu dengan Allah dalam kemuliaan. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk para imam dan pelayan Gereja yang telah wafat, agar mereka menerima upah atas pengabdiannya. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk sahabat dan kerabat yang telah mendahului kami, agar mereka beristirahat dalam damai Kristus. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk kita yang masih hidup, agar kita senantiasa menghasilkan buah yang berlimpah. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk semua umat beriman yang telah wafat, agar mereka semua menikmati terang wajah Allah. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk perdamaian dunia, agar kasih Allah berbuah dalam kehidupan semua orang. Tuhan, dengarkanlah doa kami."}
+        ],
+        "jawaban_umat": "Tuhan, dengarkanlah doa kami."
+      },
+      "doa_rosario_arwah": {
+        "keterangan": "Doa Rosario Arwah khusus untuk almarhum/almarhumah",
+        "pembukaan": {
+          "pemimpin": "Dalam nama Bapa dan Putra dan Roh Kudus. Amin.",
+          "doa": "Ya Bunda Maria, pada peringatan dua tahun ini kami berkumpul untuk mendoakan arwah [Nama Almarhum/Almarhumah]. Engkau yang telah menghasilkan buah berlimpah dari kesetiaanmu, dampingilah kami dalam doa ini. Amin."
+        },
+        "peristiwa_arwah": [
+          {
+            "peristiwa": 1,
+            "judul": "Peristiwa Biji Gandum yang Jatuh dan Mati",
+            "renungan": "Seperti biji gandum yang harus mati untuk menghasilkan buah, demikian pula hidup kita. Marilah kita mohon agar [Nama Almarhum/Almarhumah] telah menghasilkan buah dalam kehidupan kekal.",
+            "ujub": "Ya Bapa, biarlah kematian [Nama Almarhum/Almarhumah] menghasilkan buah kehidupan kekal.",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 2,
+            "judul": "Peristiwa Manusia Batiniah yang Dibaharui",
+            "renungan": "Meskipun manusia lahiriah kita merosot, manusia batiniah kita dibaharui setiap hari. Marilah kita mohon agar [Nama Almarhum/Almarhumah] telah dibaharui dalam kemuliaan Allah.",
+            "ujub": "Ya Bapa, baharuilah [Nama Almarhum/Almarhumah] dalam kemuliaan-Mu.",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 3,
+            "judul": "Peristiwa Buah Roh yang Berlimpah",
+            "renungan": "Roh Kudus menghasilkan buah dalam hidup kita. Marilah kita mohon agar buah Roh berlimpah dalam hidup [Nama Almarhum/Almarhumah] dan dalam hidup kita.",
+            "ujub": "Ya Roh Kudus, penuhilah [Nama Almarhum/Almarhumah] dengan buah-buah Roh.",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 4,
+            "judul": "Peristiwa Kesetiaan sampai Akhir",
+            "renungan": "Yesus berkata bahwa siapa yang setia sampai akhir akan memperoleh mahkota kehidupan. Marilah kita mohon agar [Nama Almarhum/Almarhumah] telah setia sampai akhir.",
+            "ujub": "Ya Bapa, anugerahkanlah mahkota kehidupan kepada [Nama Almarhum/Almarhumah].",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 5,
+            "judul": "Peristiwa Panen yang Melimpah di Surga",
+            "renungan": "Marilah kita mohon agar [Nama Almarhum/Almarhumah] menikmati panen yang melimpah di surga, buah dari kehidupan yang berkenan kepada Allah.",
+            "ujub": "Ya Bapa, anugerahkanlah panen melimpah di surga kepada [Nama Almarhum/Almarhumah].",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          }
+        ],
+        "penutup_rosario": {
+          "doa_salam_ya_ratu": "Salam, ya Ratu, Bunda yang berbelaskasih, hidup, hiburan dan harapan kami. Kepada-Mu kami berseru, kami anak-anak Hawa yang terbuang. Kepada-Mu kami mengeluh, merintih dan menangis di lembah air mata ini. Maka, ya Pembela kami, arahkanlah pandangan-Mu yang penuh belas kasih kepada kami. Dan setelah pengembaraan ini, tunjukkanlah kepada kami Yesus, buah rahim-Mu yang terberkati. O Ratu yang murah hati, Bunda yang berbelaskasih, Perawan yang manis, ya Maria. Doakanlah kami, ya Bunda Allah yang kudus, agar kami layak menerima janji-janji Kristus."
+        }
+      },
+      "ritus_penutup": {
+        "pemimpin": "Prodiakon",
+        "doa_penutup": {
+          "pemimpin": "Marilah kita berdoa. Allah Bapa yang Mahakasih, kami bersyukur atas penyertaan-Mu pada peringatan dua tahun ini. Terimalah doa-doa kami bagi arwah [Nama Almarhum/Almarhumah]. Semoga ia beristirahat dalam damai Kristus dan menikmati kebahagiaan kekal bersama-Mu. Kuatkanlah kami yang masih berziarah di dunia ini untuk senantiasa menghasilkan buah yang berlimpah. Demi Kristus, Tuhan kami.",
+          "umat": "Amin."
+        },
+        "berkat": {
+          "pemimpin": "Semoga Allah yang Mahakuasa memberkati kita semua, Bapa, Putra, dan Roh Kudus.",
+          "umat": "Amin."
+        },
+        "lagu_penutup": {
+          "judul": "Pujian",
+          "sumber": "Madah Bakti No. 206",
+          "lirik": "Pujilah Tuhan Allah Maha Tinggi, seluruh alam raya karya tangan-Nya. Syukur dan pujian bagi nama-Nya, karena cinta-Nya kekal selamanya.",
+          "keterangan": "Lagu penutup untuk melantumkan pujian bagi keselamatan arwah"
+        }
+      }
+    },
+    {
+      "id": "peringatan_3_tahun",
+      "nama": "Ibadat Malam Tirakatan Peringatan 3 Tahun",
+      "hari": "Tiga tahun setelah wafat",
+      "warna_liturgi": "Ungu",
+      "ritus_pembuka": {
+        "lagu_pembuka": {
+          "judul": "Marilah Puji Nama-Nya",
+          "sumber": "Madah Bakti",
+          "lirik": "Marilah puji nama-Nya, marilah puji nama-Nya. Marilah puji nama-Nya, sebab Ia baik.",
+          "keterangan": "Lagu pembukaan untuk melantumkan pujian dan permohonan keselamatan arwah"
+        },
+        "tanda_kemenangan": {
+          "pemimpin": "Dalam nama Bapa dan Putra dan Roh Kudus.",
+          "umat": "Amin."
+        },
+        "salam": {
+          "pemimpin": "Kasih karunia dan damai sejahtera dari Allah, Bapa kita, dan dari Yesus Kristus, Putra-Nya, menyertai kamu sekalian.",
+          "umat": "Dan bersama rohmu."
+        },
+        "doa_pembuka": {
+          "pemimpin": "Marilah kita berdoa. (hening sejenak)",
+          "doa": "Allah Bapa yang setia dan Mahakuasa, pada peringatan tiga tahun wafatnya saudara/i kami [Nama Almarhum/Almarhumah], kami berkumpul untuk mengenang dan mendoakannya. Tiga tahun telah berlalu, namun kenangan akan kasih dan kebaikannya tetap hidup dalam hati kami. Kami mohon, terimalah doa kami, ampunilah segala dosanya, dan semoga ia Engkau terima dalam kebahagiaan kekal bersama para kudus di surga. Demi Kristus, Tuhan kami.",
+          "umat": "Amin."
+        }
+      },
+      "bacaan_sabda": {
+        "bacaan_pertama": {
+          "teks": "Aku telah mengakhiri pertandingan yang baik, aku telah mencapai garis akhir dan aku telah memelihara iman. Sekarang telah tersedia bagiku mahkota kebenaran yang akan dikaruniakan kepadaku oleh Tuhan, Hakim yang adil. (2Tim 4:7-8)",
+          "keterangan": "Bacaan Pertama dari Surat Paulus yang Kedua kepada Timotius"
+        },
+        "bacaan_injil": {
+          "teks": "Sebab barangsiapa mau menyelamatkan nyawanya, ia akan kehilangan nyawanya; tetapi barangsiapa kehilangan nyawanya karena Aku, ia akan menyelamatkannya. (Luk 9:24)",
+          "keterangan": "Bacaan Injil Suci menurut Lukas"
+        }
+      },
+      "renungan": {
+        "judul": "Mahkota Kebenaran",
+        "durasi": "5-10 menit",
+        "materi": "Saudara-saudari yang terkasih dalam Kristus,\n\nPada peringatan tiga tahun wafatnya saudara/i kita [Nama Almarhum/Almarhumah], kita diingatkan akan perkataan Rasul Paulus: 'Aku telah mengakhiri pertandingan yang baik, aku telah mencapai garis akhir dan aku telah memelihara iman. Sekarang telah tersedia bagiku mahkota kebenaran.'\n\nHidup ini adalah sebuah pertandingan. Kita semua sedang berlari dalam pertandingan iman. Tujuan kita bukanlah kemenangan duniawi, melainkan mahkota kebenaran yang disediakan Tuhan bagi mereka yang setia kepada-Nya.\n\nSaudara/i kita [Nama Almarhum/Almarhumah] telah mencapai garis akhir. Kita percaya bahwa ia telah memelihara imannya sampai akhir, dan kini telah menerima mahkota kebenaran dari Tuhan. Kita bersyukur atas teladan iman yang telah ia berikan kepada kita.\n\nYesus mengajarkan kepada kita bahwa barangsiapa mau menyelamatkan nyawanya, ia akan kehilangan nyawanya; tetapi barangsiapa kehilangan nyawanya karena Kristus, ia akan menyelamatkannya. Ini berarti bahwa kita harus rela melepaskan segala sesuatu yang menghalangi kita untuk mengikuti Kristus. Hidup kita harus berpusat pada Kristus, bukan pada hal-hal duniawi yang sementara.\n\nPeringatan tiga tahun ini mengajak kita untuk merenungkan perjalanan iman kita sendiri. Apakah kita sudah berlari dengan baik? Apakah kita sudah memelihara iman kita? Semoga kita semua dapat meneladani iman saudara/i kita [Nama Almarhum/Almarhumah] dan terus berlari menuju garis akhir dengan setia.\n\nKita juga berdoa bagi arwah [Nama Almarhum/Almarhumah], memohon agar ia telah menerima mahkota kebenaran yang dijanjikan Tuhan bagi mereka yang setia kepada-Nya."
+      },
+      "doa_ujub": {
+        "keterangan": "Doa Ujub pertama dibawakan Prodiakon, dilanjutkan Lektor",
+        "ujub": [
+          {"pembawa": "Prodiakon", "teks": "Ya Tuhan, pada peringatan tiga tahun ini kami bersyukur atas teladan iman [Nama Almarhum/Almarhumah]. Ampunilah segala dosanya dan terimalah ia dalam kemuliaan surgawi. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk keluarga yang masih berduka, agar mereka tetap setia dalam pertandingan iman. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk arwah [Nama Almarhum/Almarhumah], agar ia telah menerima mahkota kebenaran dari Tuhan. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk jiwa-jiwa di api penyucian, agar mereka segera dibebaskan dan menikmati kemuliaan surga. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk semua arwah keluarga kami, agar mereka semua bersatu dengan Allah dalam kemuliaan. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk para imam dan pelayan Gereja yang telah wafat, agar mereka menerima mahkota kebenaran. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk sahabat dan kerabat yang telah mendahului kami, agar mereka beristirahat dalam damai Kristus. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk kita yang masih hidup, agar kita senantiasa berlari dalam pertandingan iman dengan setia. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk semua umat beriman yang telah wafat, agar mereka semua menikmati mahkota kebenaran. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk perdamaian dunia, agar semua orang mengenal Kristus dan memperoleh keselamatan. Tuhan, dengarkanlah doa kami."}
+        ],
+        "jawaban_umat": "Tuhan, dengarkanlah doa kami."
+      },
+      "doa_rosario_arwah": {
+        "keterangan": "Doa Rosario Arwah khusus untuk almarhum/almarhumah",
+        "pembukaan": {
+          "pemimpin": "Dalam nama Bapa dan Putra dan Roh Kudus. Amin.",
+          "doa": "Ya Bunda Maria, pada peringatan tiga tahun ini kami berkumpul untuk mendoakan arwah [Nama Almarhum/Almarhumah]. Engkau yang telah setia sampai akhir di kaki salib, dampingilah kami dalam doa ini. Amin."
+        },
+        "peristiwa_arwah": [
+          {
+            "peristiwa": 1,
+            "judul": "Peristiwa Pertandingan Iman yang Telah Selesai",
+            "renungan": "Saudara/i kami [Nama Almarhum/Almarhumah] telah menyelesaikan pertandingan imannya. Marilah kita mohon agar ia menerima mahkota kebenaran.",
+            "ujub": "Ya Bapa, anugerahkanlah mahkota kebenaran kepada [Nama Almarhum/Almarhumah].",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 2,
+            "judul": "Peristiwa Iman yang Dipelihara sampai Akhir",
+            "renungan": "Marilah kita mohon agar [Nama Almarhum/Almarhumah] telah memelihara imannya sampai akhir dan kini menikmati upahnya.",
+            "ujub": "Ya Bapa, terimalah iman [Nama Almarhum/Almarhumah] yang telah dipelihara sampai akhir.",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 3,
+            "judul": "Peristiwa Kehilangan Nyawa karena Kristus",
+            "renungan": "Barangsiapa kehilangan nyawanya karena Kristus, ia akan menyelamatkannya. Marilah kita mohon agar [Nama Almarhum/Almarhumah] telah menyelamatkan nyawanya dalam Kristus.",
+            "ujub": "Ya Yesus, selamatkanlah [Nama Almarhum/Almarhumah] karena kesetiaannya kepada-Mu.",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 4,
+            "judul": "Peristiwa Hakim yang Adil",
+            "renungan": "Tuhan adalah Hakim yang adil yang akan memberikan mahkota kebenaran. Marilah kita mohon agar [Nama Almarhum/Almarhumah] menerima keadilan dan belas kasih Allah.",
+            "ujub": "Ya Bapa, tunjukkanlah keadilan dan belas kasih-Mu kepada [Nama Almarhum/Almarhumah].",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 5,
+            "judul": "Peristiwa Kemuliaan Abadi",
+            "renungan": "Marilah kita mohon agar [Nama Almarhum/Almarhumah] menikmati kemuliaan abadi bersama Allah dan semua orang kudus.",
+            "ujub": "Ya Bapa, anugerahkanlah kemuliaan abadi kepada [Nama Almarhum/Almarhumah].",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          }
+        ],
+        "penutup_rosario": {
+          "doa_salam_ya_ratu": "Salam, ya Ratu, Bunda yang berbelaskasih, hidup, hiburan dan harapan kami. Kepada-Mu kami berseru, kami anak-anak Hawa yang terbuang. Kepada-Mu kami mengeluh, merintih dan menangis di lembah air mata ini. Maka, ya Pembela kami, arahkanlah pandangan-Mu yang penuh belas kasih kepada kami. Dan setelah pengembaraan ini, tunjukkanlah kepada kami Yesus, buah rahim-Mu yang terberkati. O Ratu yang murah hati, Bunda yang berbelaskasih, Perawan yang manis, ya Maria. Doakanlah kami, ya Bunda Allah yang kudus, agar kami layak menerima janji-janji Kristus."
+        }
+      },
+      "ritus_penutup": {
+        "pemimpin": "Prodiakon",
+        "doa_penutup": {
+          "pemimpin": "Marilah kita berdoa. Allah Bapa yang setia, kami bersyukur atas penyertaan-Mu pada peringatan tiga tahun ini. Terimalah doa-doa kami bagi arwah [Nama Almarhum/Almarhumah]. Semoga ia beristirahat dalam damai Kristus dan menikmati mahkota kebenaran bersama-Mu. Kuatkanlah kami yang masih berziarah di dunia ini untuk senantiasa setia dalam pertandingan iman. Demi Kristus, Tuhan kami.",
+          "umat": "Amin."
+        },
+        "berkat": {
+          "pemimpin": "Semoga Allah yang Mahakuasa memberkati kita semua, Bapa, Putra, dan Roh Kudus.",
+          "umat": "Amin."
+        },
+        "lagu_penutup": {
+          "judul": "Sorak Sorai Para Kudus",
+          "sumber": "Madah Bakti No. 827",
+          "lirik": "Sorak sorai para kudus, memuji Tuhan di surga. Sorak sorai para kudus, memuji Tuhan selamanya.",
+          "keterangan": "Lagu penutup untuk melantumkan pujian bagi keselamatan arwah"
+        }
+      }
+    },
+    {
+      "id": "peringatan_1000_hari",
+      "nama": "Ibadat Malam Tirakatan Peringatan 1000 Hari",
+      "hari": "Hari keseribu setelah wafat",
+      "warna_liturgi": "Putih",
+      "ritus_pembuka": {
+        "lagu_pembuka": {
+          "judul": "Kugembira Kauberkata",
+          "sumber": "Puji Syukur No. 325",
+          "lirik": "Kugembira kauberkata, marilah ke rumah Tuhan. Kugembira kauberkata, marilah ke rumah Tuhan.",
+          "keterangan": "Lagu pembukaan untuk melantumkan pujian dan permohonan keselamatan arwah"
+        },
+        "tanda_kemenangan": {
+          "pemimpin": "Dalam nama Bapa dan Putra dan Roh Kudus.",
+          "umat": "Amin."
+        },
+        "salam": {
+          "pemimpin": "Semoga rahmat Tuhan kita Yesus Kristus, cinta kasih Allah, dan persekutuan Roh Kudus bersamamu.",
+          "umat": "Dan bersama rohmu."
+        },
+        "doa_pembuka": {
+          "pemimpin": "Marilah kita berdoa. (hening sejenak)",
+          "doa": "Allah Bapa yang Mahakuasa, sumber dan tujuan segala kehidupan, pada hari keseribu ini kami berkumpul untuk mengenang dan mendoakan saudara/i kami [Nama Almarhum/Almarhumah]. Rangkaian peringatan arwah telah mencapai puncaknya. Kami bersyukur atas segala kasih dan berkat yang Engkau berikan melalui hidupnya. Kami mohon, terimalah doa kami, ampunilah segala dosanya, dan semoga ia Engkau terima dalam kepenuhan keselamatan, yakni kehidupan bersama Allah dan Orang Kudus di surga. Demi Kristus, Tuhan kami.",
+          "umat": "Amin."
+        }
+      },
+      "bacaan_sabda": {
+        "bacaan_pertama": {
+          "teks": "Karena itu, kalau kamu dibangkitkan bersama dengan Kristus, carilah perkara yang di atas, di mana Kristus ada, duduk di sebelah kanan Allah. Pikirkanlah perkara yang di atas, bukan yang di bumi. (Kol 3:1-2)",
+          "keterangan": "Bacaan Pertama dari Surat Paulus kepada Jemaat di Kolose"
+        },
+        "bacaan_injil": {
+          "teks": "Sebab inilah kehendak Bapa-Ku, yaitu supaya setiap orang, yang melihat Anak dan yang percaya kepada-Nya beroleh hidup yang kekal, dan supaya Aku membangkitkannya pada akhir zaman. (Yoh 6:40)",
+          "keterangan": "Bacaan Injil Suci menurut Yohanes"
+        }
+      },
+      "renungan": {
+        "judul": "Kepenuhan Keselamatan dalam Kristus",
+        "durasi": "5-10 menit",
+        "materi": "Saudara-saudari yang terkasih dalam Kristus,\n\nPada hari keseribu peringatan wafatnya saudara/i kita [Nama Almarhum/Almarhumah], kita mencapai puncak dari rangkaian peringatan arwah. Ini adalah momen istimewa untuk merenungkan makna terdalam dari hidup dan kematian kita.\n\nSeluruh sejarah kehidupan umat manusia mengalir dari Allah, bersama Allah, dan menuju Allah. Pada akhir zaman, misteri karya keselamatan Allah yang terlaksana melalui Kristus akan diselesaikan dan dipenuhi, di mana 'Allah menjadi semua di dalam semua.' Peringatan seribu hari ini menyatakan iman kita akan kepenuhan karya keselamatan Allah dalam Kristus, dan akan karunia kehidupan bersama Allah yang abadi sebagai tujuan seluruh perjalanan hidup kita.\n\nRasul Paulus mengajak kita untuk mencari perkara yang di atas, bukan yang di bumi. Ini berarti bahwa hidup kita harus diarahkan kepada Allah, bukan kepada hal-hal duniawi yang sementara. Kita dipanggil untuk hidup dalam perspektif kekekalan.\n\nYesus sendiri bersabda bahwa kehendak Bapa adalah supaya setiap orang yang percaya kepada-Nya beroleh hidup yang kekal. Inilah janji yang kita pegang. Saudara/i kita [Nama Almarhum/Almarhumah] telah percaya kepada Kristus. Kita percaya bahwa ia kini menikmati kepenuhan hidup yang kekal bersama Allah.\n\nPeringatan seribu hari ini juga menjadi momen untuk merenungkan perjalanan hidup kita sendiri. Apakah kita sudah mengarahkan hidup kita kepada Allah? Apakah kita sudah mempersiapkan diri untuk kehidupan kekal? Semoga kita semua dapat menjadikan peringatan ini sebagai titik balik untuk semakin mendekatkan diri kepada Allah.\n\nKita juga berdoa bagi arwah [Nama Almarhum/Almarhumah], memohon agar ia menikmati kepenuhan keselamatan Allah, yakni kehidupan bersama Allah dan Orang Kudus di surga. Semoga kita semua, pada akhirnya, dapat berkumpul kembali bersama Allah di rumah Bapa yang kekal."
+      },
+      "doa_ujub": {
+        "keterangan": "Doa Ujub pertama dibawakan Prodiakon, dilanjutkan Lektor",
+        "ujub": [
+          {"pembawa": "Prodiakon", "teks": "Ya Tuhan, pada hari keseribu ini kami mohonkan kepenuhan keselamatan bagi arwah [Nama Almarhum/Almarhumah]. Semoga ia menikmati kehidupan bersama Allah dan Orang Kudus di surga. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk keluarga yang telah mendampingi perjalanan peringatan ini, agar mereka dikuatkan dalam iman dan pengharapan. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk arwah [Nama Almarhum/Almarhumah], agar ia bersatu dengan Allah dalam kemuliaan abadi. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk semua arwah keluarga kami, agar mereka semua menikmati kepenuhan keselamatan. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk jiwa-jiwa di api penyucian, agar mereka segera dibebaskan dan menikmati kemuliaan surga. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk para imam dan pelayan Gereja yang telah wafat, agar mereka menerima upah atas pengabdiannya. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk sahabat dan kerabat yang telah mendahului kami, agar mereka beristirahat dalam damai Kristus. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk kita yang masih hidup, agar kita senantiasa mencari perkara yang di atas. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk semua umat beriman yang telah wafat, agar mereka semua menikmati kepenuhan keselamatan Allah. Tuhan, dengarkanlah doa kami."},
+          {"pembawa": "Lektor", "teks": "Untuk perdamaian dunia, agar semua orang diarahkan kepada Allah, sumber dan tujuan hidup. Tuhan, dengarkanlah doa kami."}
+        ],
+        "jawaban_umat": "Tuhan, dengarkanlah doa kami."
+      },
+      "doa_rosario_arwah": {
+        "keterangan": "Doa Rosario Arwah khusus untuk almarhum/almarhumah",
+        "pembukaan": {
+          "pemimpin": "Dalam nama Bapa dan Putra dan Roh Kudus. Amin.",
+          "doa": "Ya Bunda Maria, pada hari keseribu ini kami berkumpul untuk mendoakan arwah [Nama Almarhum/Almarhumah]. Engkau yang telah dimahkotai sebagai Ratu Surga dan Bumi, dampingilah kami dalam doa ini. Amin."
+        },
+        "peristiwa_arwah": [
+          {
+            "peristiwa": 1,
+            "judul": "Peristiwa Kehidupan dari Allah",
+            "renungan": "Seluruh hidup kita berasal dari Allah. Marilah kita mohon agar [Nama Almarhum/Almarhumah] telah kembali kepada Sumber kehidupan.",
+            "ujub": "Ya Bapa, terimalah [Nama Almarhum/Almarhumah] kembali kepada-Mu, Sumber kehidupan.",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 2,
+            "judul": "Peristiwa Hidup Bersama Allah",
+            "renungan": "Kita dipanggil untuk hidup bersama Allah. Marilah kita mohon agar [Nama Almarhum/Almarhumah] menikmati hidup bersama Allah.",
+            "ujub": "Ya Bapa, anugerahkanlah hidup bersama-Mu kepada [Nama Almarhum/Almarhumah].",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 3,
+            "judul": "Peristiwa Kepenuhan Karya Keselamatan",
+            "renungan": "Karya keselamatan Allah akan dipenuhi pada akhir zaman. Marilah kita mohon agar [Nama Almarhum/Almarhumah] menikmati kepenuhan keselamatan itu.",
+            "ujub": "Ya Bapa, penuhilah karya keselamatan-Mu dalam diri [Nama Almarhum/Almarhumah].",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 4,
+            "judul": "Peristiwa Allah Menjadi Semua di Dalam Semua",
+            "renungan": "Pada akhir zaman, Allah akan menjadi semua di dalam semua. Marilah kita mohon agar [Nama Almarhum/Almarhumah] bersatu dengan Allah dalam kepenuhan.",
+            "ujub": "Ya Bapa, jadilah semua di dalam semua bagi [Nama Almarhum/Almarhumah].",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          },
+          {
+            "peristiwa": 5,
+            "judul": "Peristiwa Perjumpaan Kekal dengan Allah",
+            "renungan": "Marilah kita mohon agar [Nama Almarhum/Almarhumah] menikmati perjumpaan kekal dengan Allah di surga.",
+            "ujub": "Ya Bapa, anugerahkanlah perjumpaan kekal dengan-Mu kepada [Nama Almarhum/Almarhumah].",
+            "doa_inti": {"bapa_kami": 1, "salam_maria": 10, "kemuliaan": 1, "doa_fatima": "Ya Yesus, ampunilah dosa kami, lindungilah kami dari api neraka, dan hantarlah jiwa-jiwa ke surga, terutama mereka yang paling membutuhkan kerahiman-Mu."}
+          }
+        ],
+        "penutup_rosario": {
+          "doa_salam_ya_ratu": "Salam, ya Ratu, Bunda yang berbelaskasih, hidup, hiburan dan harapan kami. Kepada-Mu kami berseru, kami anak-anak Hawa yang terbuang. Kepada-Mu kami mengeluh, merintih dan menangis di lembah air mata ini. Maka, ya Pembela kami, arahkanlah pandangan-Mu yang penuh belas kasih kepada kami. Dan setelah pengembaraan ini, tunjukkanlah kepada kami Yesus, buah rahim-Mu yang terberkati. O Ratu yang murah hati, Bunda yang berbelaskasih, Perawan yang manis, ya Maria. Doakanlah kami, ya Bunda Allah yang kudus, agar kami layak menerima janji-janji Kristus."
+        }
+      },
+      "ritus_penutup": {
+        "pemimpin": "Prodiakon",
+        "doa_penutup": {
+          "pemimpin": "Marilah kita berdoa. Allah Bapa yang Mahakuasa, kami bersyukur atas penyertaan-Mu sepanjang rangkaian peringatan arwah ini. Pada hari keseribu ini, kami menyerahkan arwah [Nama Almarhum/Almarhumah] ke dalam tangan kasih-Mu. Semoga ia menikmati kepenuhan keselamatan, kehidupan bersama Allah dan Orang Kudus di surga. Kuatkanlah kami yang masih berziarah di dunia ini untuk senantiasa mencari perkara yang di atas dan mengarahkan hidup kami kepada-Mu. Demi Kristus, Tuhan kami.",
+          "umat": "Amin."
+        },
+        "berkat": {
+          "pemimpin": "Semoga Allah yang Mahakuasa memberkati kita semua, Bapa, Putra, dan Roh Kudus.",
+          "umat": "Amin."
+        },
+        "lagu_penutup": {
+          "judul": "Tuhan Sumber Gembiraku",
+          "sumber": "Madah Bakti No. 477",
+          "lirik": "Segala rumput pun riang ria, menuntunmu ke surga. Desiran angin nan mesra, mengayunmu ke surga.",
+          "keterangan": "Lagu penutup untuk melantumkan pujian bagi keselamatan arwah"
+        }
+      }
+    }
+  ]
+}
